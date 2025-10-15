@@ -1,0 +1,4 @@
+# Week1_Git_Motion
+Testing Doang
+
+YO HAY, THIS IS MY FIRST TIME USING GITHUB ( I THINK )
